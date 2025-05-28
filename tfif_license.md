@@ -11,4 +11,4 @@ Restricted Use:
 
 Attribution required.
 License ID: RHL-369
-Origin: Bjørn Marius Bråthen / Rising Bear AS
+Origin: Bjørn Marius Bråthen / Rising Bear AS - bmbraa@gmail.com - +47 410 88 800
